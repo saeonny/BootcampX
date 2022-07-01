@@ -1,3 +1,4 @@
+psql -h localhost -p 5432 -U bootcampx
 # Output of 'npm pack'
 *.tgz
 
